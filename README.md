@@ -6,16 +6,13 @@ Hi! My name is Jason Jun! I'm interested in Data Analysis and Machine Learning.
 Especially, I'm studying Sign Language Translation using Deep Learning and Time-Series Anaylsis.    
 If you wanna contact me, please send email : jasonjun1121@gmail.com
 
-![Alt Text](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
-<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="250" height="180"/>  
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" height="180"/><img src="https://media.tenor.com/Gn8pcNq61BkAAAAC/programming-troll.gif" width="250" height="180"/><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="250" height="180"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaesung-Jun&count_private=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaesung-Jun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🐺 SKILLS 🐺  
 
-[![Python Badge](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Deep Learning Badge](https://img.shields.io/badge/Skill-Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Linux Badge](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Python Badge](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![Deep Learning Badge](https://img.shields.io/badge/Skill-Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)[![Linux Badge](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 
 [![Tensorflow Badge](https://img.shields.io/badge/Tool-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch Badge](https://img.shields.io/badge/Tool-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
