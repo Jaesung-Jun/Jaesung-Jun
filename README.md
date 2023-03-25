@@ -3,11 +3,11 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaesung-Jun)
 
 Hi! My name is Jason Jun! I'm interested in Data Analysis and Machine Learning.  
-Especially, I'm studying Sign Language Translation using Deep Learning and Time-Series Anaylsis.
-
+Especially, I'm studying Sign Language Translation using Deep Learning and Time-Series Anaylsis.    
 If you wanna contact me, please send email : jasonjun1121@gmail.com
 
 ![Alt Text](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="250" height="180"/>  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaesung-Jun&count_private=true&theme=highcontrast)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaesung-Jun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
