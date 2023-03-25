@@ -20,7 +20,7 @@ If you wanna contact me, please send email : jasonjun1121@gmail.com
 
 [![Tensorflow Badge](https://img.shields.io/badge/Tool-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch Badge](https://img.shields.io/badge/Tool-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Jupyter Badge](https://img.shields.io/badge/Tool-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Jupyter Badge](https://img.shields.io/badge/Tool-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)  
 [![OpenCV Badge](https://img.shields.io/badge/Tool-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Docker Badge](https://img.shields.io/badge/Tool-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
 [![Numpy Badge](https://img.shields.io/badge/Library-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=013243)](https://numpy.org/)
