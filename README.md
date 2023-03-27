@@ -32,7 +32,7 @@ And also I have develop experience of :
 [![C# Badge](https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![C++ Badge](https://img.shields.io/badge/Language-C%2B%2B-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)](https://isocpp.org/)
 
-### Interests
+### 🐱 Interests 🐱
 [![Julia Badge](https://img.shields.io/badge/Language-Julia-informational?style=for-the-badge&logo=julia&logoColor=white&color=9558B2)](https://julialang.org/)
 
 
