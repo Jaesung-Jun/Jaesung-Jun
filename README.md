@@ -22,7 +22,7 @@ If you wanna contact me, please send email : jasonjun1121@gmail.com
 [![Numpy Badge](https://img.shields.io/badge/Library-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=013243)](https://numpy.org/)
 [![Scikit-learn Badge](https://img.shields.io/badge/Library-Scikit--learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=f7931e)](https://scikit-learn.org/)
 
-I have develop experience of :  
+And also I have develop experience of :  
 [![React Badge](https://img.shields.io/badge/Library-React-informational?style=for-the-badge&logo=react&logoColor=white&color=61dafb)](https://reactjs.org/)
 [![React Native Badge](https://img.shields.io/badge/Library-React%20Native-informational?style=for-the-badge&logo=react&logoColor=white&color=0088cc)](https://reactnative.dev/)
 [![Flutter Badge](https://img.shields.io/badge/Library-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)](https://flutter.dev/)  
