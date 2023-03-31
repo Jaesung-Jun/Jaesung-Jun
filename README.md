@@ -10,7 +10,7 @@ If you wanna contact me, please send email : jasonjun1121@gmail.com
 
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" height="180"/><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="250" height="180"/><img src="https://media.tenor.com/97gs87bOyQAAAAAC/debugging-programming.gif" width="250" height="180"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaesung-Jun&count_private=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaesung-Jun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height=165 width=400 src="https://github-readme-stats.vercel.app/api?username=Jaesung-Jun&count_private=true&theme=highcontrast"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaesung-Jun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🐺 SKILLS 🐺  
 
