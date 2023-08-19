@@ -25,9 +25,9 @@ If you wanna contact me, please send email : jasonjun1121 [at] gmail [dot] com
 [![Scikit-learn Badge](https://img.shields.io/badge/Library-Scikit--learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=f7931e)](https://scikit-learn.org/)
 
 And also I have develop experience of :  
-[![React Badge](https://img.shields.io/badge/Library-React-informational?style=for-the-badge&logo=react&logoColor=white&color=61dafb)](https://reactjs.org/)
-[![React Native Badge](https://img.shields.io/badge/Library-React%20Native-informational?style=for-the-badge&logo=react&logoColor=white&color=0088cc)](https://reactnative.dev/)
-[![Flutter Badge](https://img.shields.io/badge/Library-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)](https://flutter.dev/)  
+[![React Badge](https://img.shields.io/badge/FrameWork-React-informational?style=for-the-badge&logo=react&logoColor=white&color=61dafb)](https://reactjs.org/)
+[![React Native Badge](https://img.shields.io/badge/FrameWork-React%20Native-informational?style=for-the-badge&logo=react&logoColor=white&color=0088cc)](https://reactnative.dev/)
+[![Flutter Badge](https://img.shields.io/badge/FrameWork-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=02569b)](https://flutter.dev/)  
 [![MySQL Badge](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479a1)](https://www.mysql.com/)
 [![C# Badge](https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![C++ Badge](https://img.shields.io/badge/Language-C%2B%2B-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)](https://isocpp.org/)
