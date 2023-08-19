@@ -6,7 +6,7 @@ Hi! My name is Jason Jun! I'm interested in Data Analysis and Machine Learning.
 Especially, I'm studying Sign Language Translation using Deep Learning and Time-Series Anaylsis.  
 And I have full-stack development experience;  
 *Python, C++, C#, Javascript, SQL, HTML, React, React-Native, Flutter etc....*  
-If you wanna contact me, please send email : jasonjun1121 [at] gmail [dot] com
+If you wanna contact me, please send email : jasonjun1121 [at] gmail.com
 
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" height="180"/><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/kagome_with_python.jpg?raw=true" width="250" height="180"/><img src="https://media.tenor.com/97gs87bOyQAAAAAC/debugging-programming.gif" width="250" height="180"/>
 
