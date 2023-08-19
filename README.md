@@ -16,10 +16,10 @@ If you wanna contact me, please send email : jasonjun1121 [at] gmail [dot] com
 
 [![Python Badge](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![Deep Learning Badge](https://img.shields.io/badge/Skill-Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)[![Linux Badge](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 
-[![Tensorflow Badge](https://img.shields.io/badge/Tool-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch Badge](https://img.shields.io/badge/Tool-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Tensorflow Badge](https://img.shields.io/badge/FrameWork-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch Badge](https://img.shields.io/badge/FrameWork-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Jupyter Badge](https://img.shields.io/badge/Tool-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)  
-[![OpenCV Badge](https://img.shields.io/badge/Tool-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![OpenCV Badge](https://img.shields.io/badge/Library-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Docker Badge](https://img.shields.io/badge/Tool-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
 [![Numpy Badge](https://img.shields.io/badge/Library-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=013243)](https://numpy.org/)
 [![Scikit-learn Badge](https://img.shields.io/badge/Library-Scikit--learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=f7931e)](https://scikit-learn.org/)
